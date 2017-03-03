@@ -1,6 +1,6 @@
 const config = {}
 
-config.recastToken = 'a7a706351177d232d7c1efca6cb6e9d6'
+config.recastToken = 'ffae1ecc3ed479fad9e92276eb687a34'
 config.botToken = 'f7e0e721c3a1de2efb5378f8e7044b73'
 config.language = 'en'
 config.url= 'https://api-botconnector.recast.ai'
