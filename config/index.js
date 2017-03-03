@@ -1,9 +1,9 @@
 const config = {}
 
-config.recastToken = 'a7a706351177d232d7c1efca6cb6e9d6'
-config.botToken = 'f7e0e721c3a1de2efb5378f8e7044b73'
+config.recastToken = '38d1ef8451d83bdaefcf42ea75dc77c9'
+config.botToken = '02ae73826e05583fc19297c61b8888d8'
 config.language = 'en'
 config.url= 'https://api-botconnector.recast.ai'
-config.botId = '588b3523e807fe2c951faa2f'
-config.slug = 'geekvaibhav'
+config.botId = '689a9436-dfdc-4adb-ac3a-6c07db7f49f4'
+config.slug = 'ishan'
 module.exports = config
